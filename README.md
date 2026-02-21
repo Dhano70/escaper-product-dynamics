@@ -36,9 +36,9 @@ The controller constants were determined using the Ziegler-Nichols tuning method
 
 The PI controller is implemented as:
 
-```
-u(t) = Kp * e(t) + Ki * ∫ e(t) dt
-```
+
+$$u(t) = K_p e(t) + K_i \int e(t) dt$$
+
 
 Where:
 - `e(t)` = distance error  
