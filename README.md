@@ -18,9 +18,17 @@ Developed as part of the **Product Dynamics** course at **Delft University of Te
   - HC-SR04 Ultrasonic Sensor (Proximity)  
   - Optical Encoders (Velocity feedback)  
 - **Language:** C++  
-- **Environment:** VS Code + PlatformIO  
+- **Environment:** VS Code + PlatformIO
+<br><br>
+![Hardware Circuit](https://github.com/Dhano70/escaper-product-dynamics/blob/main/hardware%20circuit.png)
+
+  Hardware circuit
 
 ---
+
+
+
+
 
 ## Control Parameters
 
