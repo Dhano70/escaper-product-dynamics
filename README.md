@@ -41,8 +41,8 @@ $$u(t) = K_p e(t) + K_i \int e(t) dt$$
 
 
 Where:
-- `e(t)` = distance error  
-- `u(t)` = motor control signal  
+- $$e(t)$$ = distance error  
+- $$u(t)$$ = motor control signal  
 
 ---
 
