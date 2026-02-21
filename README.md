@@ -7,6 +7,8 @@ The project focuses on implementing a real-time PI control loop to manage veloci
 
 Developed as part of the **Product Dynamics** course at **Delft University of Technology** (2021 - 2022).
 
+![Escaper Use Case](https://github.com/Dhano70/Escaper/blob/main/images/escaper.png)
+
 ---
 
 ## Technical Specifications
